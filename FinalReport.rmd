@@ -58,6 +58,8 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+In the row percents, 25% of the people got aids with the vaccine while 75% had the placebo. With those who did not contract aids, 48% took the drug and 52% took the placebo
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
